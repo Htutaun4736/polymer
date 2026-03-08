@@ -1,0 +1,10 @@
+{
+  "version": 1,
+  "skills": {
+    "twenty": {
+      "source": "vm0-ai/vm0-skills",
+      "sourceType": "github",
+      "computedHash": "a1f19a05177f09704e50041217bf4c1af6fd0bfe4612f235bb2884432700c145"
+    }
+  }
+}
